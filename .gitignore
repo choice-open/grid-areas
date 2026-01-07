@@ -1,0 +1,14 @@
+node_modules
+dist
+
+/.cache
+/.wrangler
+build/
+output/
+.env
+.npmrc
+.DS_Store
+
+dist-demo
+.next
+.turbo
