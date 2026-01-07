@@ -1,6 +1,10 @@
 # @choice-ui/grid-areas
 
-A Tailwind CSS v4 plugin for CSS Grid named areas.
+[![npm version](https://img.shields.io/npm/v/@choice-ui/grid-areas.svg)](https://www.npmjs.com/package/@choice-ui/grid-areas)
+[![npm downloads](https://img.shields.io/npm/dm/@choice-ui/grid-areas.svg)](https://www.npmjs.com/package/@choice-ui/grid-areas)
+[![license](https://img.shields.io/npm/l/@choice-ui/grid-areas.svg)](https://github.com/user/grid-areas/blob/main/LICENSE)
+
+Tailwind CSS v4 plugin for grid-template-areas and grid-area utilities with arbitrary value support.
 
 ## Installation
 

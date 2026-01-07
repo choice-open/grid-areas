@@ -1,7 +1,7 @@
 {
   "name": "@choice-ui/grid-areas",
   "version": "0.0.2",
-  "description": "A Tailwind CSS v4 plugin for CSS Grid named areas",
+  "description": "Tailwind CSS v4 plugin for grid-template-areas and grid-area utilities with arbitrary value support",
   "keywords": [
     "tailwindcss",
     "tailwindcss-plugin",
